@@ -1,0 +1,11 @@
+
+{
+  "name": "Festival Sabores de Blumenau",
+  "short_name": "Festival Sabores",
+  "description": "Descubra os sabores do Festival Sabores de Blumenau.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#c9a44c",
+  "lang": "pt-BR"
+}
